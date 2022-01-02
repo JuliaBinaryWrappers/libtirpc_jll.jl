@@ -1,0 +1,103 @@
+[[libtirpc]]
+arch = "aarch64"
+git-tree-sha1 = "0d9b44c04b5c4cd075950d8c5c0b63eb8edb0f2d"
+libc = "glibc"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "f46bd70154257376f5454c53c050ef29b38742f857726113685ffcaf8ab57b9c"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.aarch64-linux-gnu.tar.gz"
+[[libtirpc]]
+arch = "aarch64"
+git-tree-sha1 = "3655db729347ad077d2ec3ae554fbd506e776b65"
+libc = "musl"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "5e9de228c41bbc23391b36e5817cc7cc6217dfd1d0fd419c857f99ac0dfa565d"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.aarch64-linux-musl.tar.gz"
+[[libtirpc]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "75dfb395497eed36833ef5440f24dfa96549f10a"
+libc = "glibc"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "a2e9c915750ce78894792df4ec4919d9f4ebc2e93c888d20e6043dd97bc501f6"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.armv6l-linux-gnueabihf.tar.gz"
+[[libtirpc]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0cc5c99f25adce617e6ab4ae64984547d0e3190b"
+libc = "musl"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "eba1bc13c01a360673a2ca2d045a8a200c217b1071c7e9b67bb4f80d449a4591"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.armv6l-linux-musleabihf.tar.gz"
+[[libtirpc]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9aa46b0ca619f6df9568ff6fb64661f5afff8e26"
+libc = "glibc"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "bec527d87bb2991ed66b7ccde4709ba6a719ab49a5ebae897c82a48a8a583a37"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.armv7l-linux-gnueabihf.tar.gz"
+[[libtirpc]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0cd2bf7c9d8c57e9c054a79f1a97b1a6c730a36c"
+libc = "musl"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "f2dd076607b5b7dbe8b029f9f59be2ce38294f07caedc31a35c6449452d53eaa"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.armv7l-linux-musleabihf.tar.gz"
+[[libtirpc]]
+arch = "i686"
+git-tree-sha1 = "7dfc9229b2c589d8afcf88d988fe532b81665636"
+libc = "glibc"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "f7096f6c72130b72cf185fbf6300e4637a7663f7437ae523cf58c68435417dc3"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.i686-linux-gnu.tar.gz"
+[[libtirpc]]
+arch = "i686"
+git-tree-sha1 = "fe7c8b540f9804f61dec9e9fc9d28a281320b0a9"
+libc = "musl"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "5a5284750f5e5ee25b5f56359e82b434907ae896bfe57d0759e1ca7d96244249"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.i686-linux-musl.tar.gz"
+[[libtirpc]]
+arch = "powerpc64le"
+git-tree-sha1 = "d6259809d7fe4a2ae32bed10c5fd13ea52849d47"
+libc = "glibc"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "dbc109ba3e3b3d3a766e761b6d926dda05ba7f5f34721082553947e656ef2ae2"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.powerpc64le-linux-gnu.tar.gz"
+[[libtirpc]]
+arch = "x86_64"
+git-tree-sha1 = "7df5fd087e2d2344bf08f349dcdf534e68d6d37e"
+libc = "glibc"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "e69643408769148f49886db0b134da2800d0760eecc1aff91b1989800e3c690a"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.x86_64-linux-gnu.tar.gz"
+[[libtirpc]]
+arch = "x86_64"
+git-tree-sha1 = "9b7bba6a98281967ef6f5fd20a73445901ec2d0b"
+libc = "musl"
+os = "linux"
+
+    [[libtirpc.download]]
+    sha256 = "c7c80d344c7d174bdf16898dc49ee4b27fa348ee33d90e7d177314edcb5714e1"
+    url = "https://github.com/JuliaBinaryWrappers/libtirpc_jll.jl/releases/download/libtirpc-v1.3.2+0/libtirpc.v1.3.2.x86_64-linux-musl.tar.gz"
